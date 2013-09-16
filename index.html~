@@ -15,7 +15,15 @@
       <div id="mainHeader">
         <a href="index.html" title="home" class="logo">
           <div id="logo">
-            <h1>Explore California [Edited_twice]</h1>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <h1>Explore California [Edited_once in branch]</h1>
+=======
+            <h1>Explore California [Edited_once in edited_indexfile]</h1>
+>>>>>>> test_indexfile
+=======
+            <h1>Explore California [Edited_once in branch]</h1>
+>>>>>>> newb
           </div>
         </a>
         <div id="siteNav">
